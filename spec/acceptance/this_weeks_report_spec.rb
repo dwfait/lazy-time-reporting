@@ -6,10 +6,9 @@ feature "This Weeks Time Report", %q{
   So that I know how much time is left to record
 } do
 
-  scenario "reviewing total hours recorded this week" do
+  scenario "No time recorded yet" do
     visit '/'
 
-    page.should have_content 'Hours This Week'
+    page.should have_content 'No time recorded this week'
   end
-
 end
