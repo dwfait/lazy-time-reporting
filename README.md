@@ -7,9 +7,9 @@ Google Calendar has an amazing interface, so why not use it!?
 
 ## Domain
 
-__Alloted Time:__ Blocked out periods associated with a projct or task
-__Schedule:__ Alloted time in the future
-__Calendar:__ Medium of storage for alloted time
+__Alloted Time:__ Blocked out periods associated with a projct or task  
+__Schedule:__ Alloted time in the future  
+__Calendar:__ Medium of storage for alloted time  
 __Recorded Time:__ Alloted time in the past
 
 ## Contributing
