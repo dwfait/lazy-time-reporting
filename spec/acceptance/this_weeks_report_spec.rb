@@ -6,9 +6,12 @@ feature "This Weeks Time Report", %q{
   So that I know how much time is left to record
 } do
 
-  scenario "No time recorded yet" do
+  background do
     visit '/'
+  end
 
-    page.should have_content 'No time recorded this week'
+  scenario "Attach calendar" do
+    click_on 'Authorize with Google Account'
+    page.should have_content %q{Company Profile: Tue, 15 January}
   end
 end
