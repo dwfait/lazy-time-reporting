@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 1.9.3
+services: mysql
+before_script:
+  - cp config/database.travis.yml config/database.yml
+  - mysql -e 'create database lazy_time_reporting_test;'

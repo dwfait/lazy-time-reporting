@@ -1,4 +1,5 @@
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/the-undefined/lazy-time-reporting)
+[![Build Status](https://travis-ci.org/the-undefined/lazy-time-reporting.png?branch=master)](undefined)
 
 Lazy Time Reporting
 ==============
