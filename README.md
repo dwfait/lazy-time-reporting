@@ -16,7 +16,7 @@ __Calendar:__ Medium of storage for alloted time
 __Recorded Time:__ Alloted time in the past
 
 ## Contributing
-__Don't feel quite lazy enough yet?__ Lend a hand in implementing the TOOD's, or be lazy smart and come up with a new feature to save you tedious minutes and braing power recording your time.
+__Don't feel quite lazy enough yet?__ Lend a hand in implementing the TODOs, or be lazy smart and come up with a new feature to save you tedious minutes and braing power recording your time.
 
 ### TODO:
 
